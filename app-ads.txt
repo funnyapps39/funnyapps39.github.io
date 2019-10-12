@@ -20,3 +20,4 @@ contextweb.com, 561913, RESELLER, 89ff185a4c4e857c
 appnexus.com, 8804, RESELLER, f5ab79cb980f11d1
 spotxchange.com, 135285, RESELLER, 7842df1d2fe2db34
 spotx.tv, 135285, RESELLER, 7842df1d2fe2db34
+google.com, pub-4124782959837152, DIRECT, f088c47fec942fa0
