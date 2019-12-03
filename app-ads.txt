@@ -79,3 +79,10 @@ Rhythmone.com, 4173858586, RESELLER, a670c89d4a324e47
 Improvedigital.com, 1366, RESELLER
 EMXDGT.com, 1324, RESELLER, 1e1d41537f7cad7f
 Engagebdr.com, 10252, RESELLER #banner #video
+smaato.com, 1100043527, DIRECT, 07bcf65f187117b4
+pokkt.com, 5886, RESELLER, c45702d9311e25fd 
+pubmatic.com, 156177, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156389, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156424, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156425, RESELLER, 5d62403b186f2ace
+gammassp.com, 1516331892, RESELLER, 31ac53fec2772a83
